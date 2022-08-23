@@ -1,0 +1,138 @@
+
+.logo{
+   color: rgb(252, 174, 31);
+   padding-left: 25px;
+   display: flex;
+   font-size: 20px;
+  }
+  body{
+    background-image: url(e-commerce.img.jpg);
+    background-repeat: no-repeat;
+  }
+  .bar{
+   background-color: rgb(37, 33, 33);
+   display: flex;
+   
+   }
+   #pic{
+       padding-top: 25px;
+       padding-right: 5px;
+   }
+   .h1{
+       font-size: 22px;
+   }
+   .search{
+       display: flex;
+       
+   }
+   .div1{
+       padding-top: 18px;
+       padding-left: 50px;
+       padding-bottom: 18px;
+       display: flex;
+       }
+   .logo2{
+       color: rgb(252, 174, 31);
+       font-size: 20px;
+       padding-top: 5px;
+   }
+   .search{
+       width: 850px;
+       height: 25px;
+   }
+   .header-nav{
+       display: flex;
+       padding-top: 10px;
+   }
+   .nav-text,.nav-items,.items-basket{
+       padding-left: 20px;
+       color: white;
+   }
+   .nav_item2,.nav_item4{
+    font-weight: bold;
+   }
+   .nav_item1,.nav_item3{
+    font-size: 12px;
+   }
+   .items-basket{
+       padding-left: 40px;
+       display: flex;
+   }
+   .nav-count{
+    padding-left: 5px;
+   }
+   .nav-text{
+       padding-left: 50px;
+   }
+   .nav-items{
+       padding-left: 50px;
+   }
+   .pic1{
+    width: 100%;
+   }
+   .section2{
+    display: flex;
+    height: 100vh;
+    background-color: rgb(247, 138, 37);
+    justify-content: center;
+    justify-content: space-around;
+   }
+   .ovenpic{
+    width: 500px;
+   }
+   .left-div .btn,.right-div .btn{
+    background-color: rgb(252, 146, 47);
+    border-style: none;
+    margin-left: 40%;
+   }
+   .left-div,.right-div{
+    background-color: white;
+    height: 80%;
+    margin-top: 50px;
+    width: 45%;
+   }
+  .para1,.para2,.para3{
+    margin-left: 10px;
+  }
+  .para2{
+    font-weight: bold;
+  }
+  .section3{
+    height: 100vh;
+    display: flex;
+    background-color: rgb(252, 146, 47);
+    justify-content: center;
+    justify-content: space-around;
+  }
+  .div-left,.div-middle,.div-right{
+    /* flex: 1; */
+    background-color: white;
+    width: 30%;
+    height: 80%;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .bookpic,.echopic,.ipadpic{
+    width: 60%;
+  }
+  .btn2{
+    background-color: rgb(252, 146, 47);
+    border-style: none;
+  }
+  .section4{
+    height: 100vh;
+  }
+  .ledpic{
+    width: 80%;
+  }
+  .div5{
+    padding-left: 20px;
+  }
+  .div6{
+    text-align: center;
+  }
+  
+  
+ 
+  
+
